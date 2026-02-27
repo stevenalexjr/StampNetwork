@@ -1,10 +1,137 @@
 {
-  "items": [
+  "providerName": "Stamp Network",
+  "language": "en-US",
+  "lastUpdated": "2026-02-27T00:00:00Z",
+  "movies": [
     {
-      "contentId": "backyard-campout-001",
+      "contentId": "movie_weekend_movie_night_001",
+      "mediaType": "movie",
+      "title": "Weekend Movie Night",
+      "description": "Feature-length family picks curated every week.",
+      "streamFormat": "mp4",
+      "url": "https://devtools.web.roku.com/samples/video/rr/the-affair-s2-tune-in-post-premiere---roku-with-dominic-read.mp4"
+    },
+    {
+      "contentId": "movie_adventure_club_001",
+      "mediaType": "movie",
+      "title": "Adventure Club",
+      "description": "Explore nature, science, and discovery as a family.",
+      "streamFormat": "mp4",
+      "url": "https://devtools.web.roku.com/samples/video/rr/pta.mp4"
+    }
+  ],
+  "series": [
+    {
+      "contentId": "series_shadow_trax_originals_001",
+      "mediaType": "series",
+      "title": "Shadow Trax Originals",
+      "description": "Premium original series made for family co-viewing.",
+      "seasons": [
+        {
+          "contentId": "season_shadow_trax_originals_s1_001",
+          "mediaType": "season",
+          "title": "Shadow Trax Originals - Season 1",
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "contentId": "episode_shadow_trax_s1e1_001",
+              "mediaType": "episode",
+              "title": "Shadow Trax Originals - Episode 1",
+              "description": "Pilot episode.",
+              "seasonNumber": 1,
+              "episodeNumber": 1,
+              "streamFormat": "mp4",
+              "url": "https://devtools.web.roku.com/samples/video/rr/rr_ep21_segment_1_071515.mp4"
+            },
+            {
+              "contentId": "episode_shadow_trax_s1e2_001",
+              "mediaType": "episode",
+              "title": "Shadow Trax Originals - Episode 2",
+              "description": "Follow-up episode.",
+              "seasonNumber": 1,
+              "episodeNumber": 2,
+              "streamFormat": "mp4",
+              "url": "https://devtools.web.roku.com/samples/video/rr/rr_123_segment_1_072715.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "shortFormVideos": [
+    {
+      "contentId": "short_backyard_campout_001",
       "mediaType": "shortFormVideo",
       "title": "Backyard Campout",
+      "description": "A fun outdoor adventure for the whole family.",
+      "streamFormat": "mp4",
       "url": "https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4"
+    },
+    {
+      "contentId": "short_storytime_station_001",
+      "mediaType": "shortFormVideo",
+      "title": "Storytime Station",
+      "description": "Gentle stories and creative play for younger viewers.",
+      "streamFormat": "mp4",
+      "url": "https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_1_ted_nw_050515.mp4"
+    },
+    {
+      "contentId": "short_family_build_lab_001",
+      "mediaType": "shortFormVideo",
+      "title": "Family Build Lab",
+      "description": "DIY-inspired segments to watch and try together.",
+      "streamFormat": "mp4",
+      "url": "https://devtools.web.roku.com/samples/video/rr/roku_119_segment_2_062315.mp4"
+    }
+  ],
+  "tvSpecials": [
+    {
+      "contentId": "special_family_talent_stage_001",
+      "mediaType": "tvSpecial",
+      "title": "Family Talent Stage",
+      "description": "Music, dance, and creative spotlights from around the world.",
+      "streamFormat": "mp4",
+      "url": "https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_3_ufc_nw_051815.mp4"
+    },
+    {
+      "contentId": "special_creative_kitchen_001",
+      "mediaType": "tvSpecial",
+      "title": "Creative Kitchen",
+      "description": "Kid-friendly cooking fun and easy at-home recipes.",
+      "streamFormat": "mp4",
+      "url": "https://devtools.web.roku.com/samples/video/rr/ep-123-seq-4-nick-alt_081215.mp4"
+    }
+  ],
+  "deepLinkSamples": [
+    {
+      "mediaType": "movie",
+      "contentId": "movie_weekend_movie_night_001",
+      "title": "Weekend Movie Night"
+    },
+    {
+      "mediaType": "series",
+      "contentId": "series_shadow_trax_originals_001",
+      "title": "Shadow Trax Originals"
+    },
+    {
+      "mediaType": "season",
+      "contentId": "season_shadow_trax_originals_s1_001",
+      "title": "Shadow Trax Originals - Season 1"
+    },
+    {
+      "mediaType": "episode",
+      "contentId": "episode_shadow_trax_s1e1_001",
+      "title": "Shadow Trax Originals - Episode 1"
+    },
+    {
+      "mediaType": "shortFormVideo",
+      "contentId": "short_backyard_campout_001",
+      "title": "Backyard Campout"
+    },
+    {
+      "mediaType": "tvSpecial",
+      "contentId": "special_family_talent_stage_001",
+      "title": "Family Talent Stage"
     }
   ]
 }
