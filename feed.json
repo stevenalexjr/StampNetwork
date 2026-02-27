@@ -8,7 +8,10 @@
       "mediaType": "movie",
       "title": "Weekend Movie Night",
       "description": "Feature-length family picks curated every week.",
+      "isPremium": true,
       "streamFormat": "mp4",
+      "hdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
+      "sdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
       "url": "https://devtools.web.roku.com/samples/video/rr/the-affair-s2-tune-in-post-premiere---roku-with-dominic-read.mp4"
     },
     {
@@ -17,6 +20,8 @@
       "title": "Adventure Club",
       "description": "Explore nature, science, and discovery as a family.",
       "streamFormat": "mp4",
+      "hdPosterUrl": "pkg:/images/posters/adventure-club.png",
+      "sdPosterUrl": "pkg:/images/posters/adventure-club.png",
       "url": "https://devtools.web.roku.com/samples/video/rr/pta.mp4"
     }
   ],
@@ -41,6 +46,8 @@
               "seasonNumber": 1,
               "episodeNumber": 1,
               "streamFormat": "mp4",
+              "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
+              "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "url": "https://devtools.web.roku.com/samples/video/rr/rr_ep21_segment_1_071515.mp4"
             },
             {
@@ -51,6 +58,8 @@
               "seasonNumber": 1,
               "episodeNumber": 2,
               "streamFormat": "mp4",
+              "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
+              "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "url": "https://devtools.web.roku.com/samples/video/rr/rr_123_segment_1_072715.mp4"
             }
           ]
@@ -65,6 +74,8 @@
       "title": "Backyard Campout",
       "description": "A fun outdoor adventure for the whole family.",
       "streamFormat": "mp4",
+      "hdPosterUrl": "pkg:/images/posters/backyard-campout.png",
+      "sdPosterUrl": "pkg:/images/posters/backyard-campout.png",
       "url": "https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4"
     },
     {
@@ -73,6 +84,8 @@
       "title": "Storytime Station",
       "description": "Gentle stories and creative play for younger viewers.",
       "streamFormat": "mp4",
+      "hdPosterUrl": "pkg:/images/posters/storytime-station.png",
+      "sdPosterUrl": "pkg:/images/posters/storytime-station.png",
       "url": "https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_1_ted_nw_050515.mp4"
     },
     {
@@ -81,6 +94,8 @@
       "title": "Family Build Lab",
       "description": "DIY-inspired segments to watch and try together.",
       "streamFormat": "mp4",
+      "hdPosterUrl": "pkg:/images/posters/family-build-lab.png",
+      "sdPosterUrl": "pkg:/images/posters/family-build-lab.png",
       "url": "https://devtools.web.roku.com/samples/video/rr/roku_119_segment_2_062315.mp4"
     }
   ],
@@ -90,7 +105,10 @@
       "mediaType": "tvSpecial",
       "title": "Family Talent Stage",
       "description": "Music, dance, and creative spotlights from around the world.",
+      "isPremium": true,
       "streamFormat": "mp4",
+      "hdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
+      "sdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
       "url": "https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_3_ufc_nw_051815.mp4"
     },
     {
@@ -99,14 +117,16 @@
       "title": "Creative Kitchen",
       "description": "Kid-friendly cooking fun and easy at-home recipes.",
       "streamFormat": "mp4",
+      "hdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
+      "sdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
       "url": "https://devtools.web.roku.com/samples/video/rr/ep-123-seq-4-nick-alt_081215.mp4"
     }
   ],
   "deepLinkSamples": [
     {
       "mediaType": "movie",
-      "contentId": "movie_weekend_movie_night_001",
-      "title": "Weekend Movie Night"
+      "contentId": "movie_adventure_club_001",
+      "title": "Adventure Club"
     },
     {
       "mediaType": "series",
@@ -130,8 +150,9 @@
     },
     {
       "mediaType": "tvSpecial",
-      "contentId": "special_family_talent_stage_001",
-      "title": "Family Talent Stage"
+      "contentId": "special_creative_kitchen_001",
+      "title": "Creative Kitchen"
     }
   ]
 }
+
