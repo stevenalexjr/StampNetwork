@@ -12,7 +12,7 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
       "sdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
-      "url": "https://devtools.web.roku.com/samples/video/rr/the-affair-s2-tune-in-post-premiere---roku-with-dominic-read.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     },
     {
       "contentId": "movie_adventure_club_001",
@@ -22,7 +22,7 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/adventure-club.png",
       "sdPosterUrl": "pkg:/images/posters/adventure-club.png",
-      "url": "https://devtools.web.roku.com/samples/video/rr/pta.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
     }
   ],
   "series": [
@@ -48,7 +48,7 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
-              "url": "https://devtools.web.roku.com/samples/video/rr/rr_ep21_segment_1_071515.mp4"
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
             },
             {
               "contentId": "episode_shadow_trax_s1e2_001",
@@ -60,7 +60,7 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
-              "url": "https://devtools.web.roku.com/samples/video/rr/rr_123_segment_1_072715.mp4"
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
             }
           ]
         }
@@ -76,7 +76,7 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/backyard-campout.png",
       "sdPosterUrl": "pkg:/images/posters/backyard-campout.png",
-      "url": "https://devtools.web.roku.com/samples/video/rr/117_segment_2_twitch__nw_060515.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
     },
     {
       "contentId": "short_storytime_station_001",
@@ -86,7 +86,7 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/storytime-station.png",
       "sdPosterUrl": "pkg:/images/posters/storytime-station.png",
-      "url": "https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_1_ted_nw_050515.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     },
     {
       "contentId": "short_family_build_lab_001",
@@ -96,7 +96,7 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/family-build-lab.png",
       "sdPosterUrl": "pkg:/images/posters/family-build-lab.png",
-      "url": "https://devtools.web.roku.com/samples/video/rr/roku_119_segment_2_062315.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
     }
   ],
   "tvSpecials": [
@@ -109,7 +109,7 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
       "sdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
-      "url": "https://devtools.web.roku.com/samples/video/rr/roku_ep_115_segment_3_ufc_nw_051815.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
     },
     {
       "contentId": "special_creative_kitchen_001",
@@ -119,7 +119,7 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
       "sdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
-      "url": "https://devtools.web.roku.com/samples/video/rr/ep-123-seq-4-nick-alt_081215.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
     }
   ],
   "deepLinkSamples": [
@@ -155,4 +155,3 @@
     }
   ]
 }
-
