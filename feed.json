@@ -12,7 +12,9 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
       "sdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "backupStreamFormat": "mp4"
     },
     {
       "contentId": "movie_adventure_club_001",
@@ -50,7 +52,9 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+              "backupStreamFormat": "mp4"
             },
             {
               "contentId": "episode_shadow_trax_s1e2_001",
@@ -62,7 +66,9 @@
               "streamFormat": "mp4",
               "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+              "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+              "backupStreamFormat": "mp4"
             }
           ]
         }
@@ -90,7 +96,9 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/storytime-station.png",
       "sdPosterUrl": "pkg:/images/posters/storytime-station.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "backupStreamFormat": "mp4"
     },
     {
       "contentId": "short_family_build_lab_001",
@@ -100,7 +108,9 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/family-build-lab.png",
       "sdPosterUrl": "pkg:/images/posters/family-build-lab.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "backupStreamFormat": "mp4"
     }
   ],
   "tvSpecials": [
@@ -113,7 +123,9 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
       "sdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "backupStreamFormat": "mp4"
     },
     {
       "contentId": "special_creative_kitchen_001",
@@ -123,7 +135,9 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
       "sdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "backupStreamFormat": "mp4"
     }
   ],
   "deepLinkSamples": [
@@ -159,4 +173,3 @@
     }
   ]
 }
-
