@@ -22,7 +22,9 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/adventure-club.png",
       "sdPosterUrl": "pkg:/images/posters/adventure-club.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "backupStreamFormat": "mp4"
     }
   ],
   "series": [
@@ -76,7 +78,9 @@
       "streamFormat": "mp4",
       "hdPosterUrl": "pkg:/images/posters/backyard-campout.png",
       "sdPosterUrl": "pkg:/images/posters/backyard-campout.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "backupStreamFormat": "mp4"
     },
     {
       "contentId": "short_storytime_station_001",
@@ -155,3 +159,4 @@
     }
   ]
 }
+
