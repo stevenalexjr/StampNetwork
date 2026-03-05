@@ -9,24 +9,24 @@
       "title": "Weekend Movie Night",
       "description": "Feature-length family picks curated every week.",
       "isPremium": true,
-      "streamFormat": "mp4",
+      "streamFormat": "hls",
       "hdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
       "sdPosterUrl": "pkg:/images/posters/weekend-movie-night.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "backupStreamFormat": "mp4"
+      "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupStreamFormat": "hls"
     },
     {
       "contentId": "movie_adventure_club_001",
       "mediaType": "movie",
       "title": "Adventure Club",
       "description": "Explore nature, science, and discovery as a family.",
-      "streamFormat": "mp4",
+      "streamFormat": "hls",
       "hdPosterUrl": "pkg:/images/posters/adventure-club.png",
       "sdPosterUrl": "pkg:/images/posters/adventure-club.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "backupStreamFormat": "mp4"
+      "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupStreamFormat": "hls"
     }
   ],
   "series": [
@@ -49,12 +49,12 @@
               "description": "Pilot episode.",
               "seasonNumber": 1,
               "episodeNumber": 1,
-              "streamFormat": "mp4",
+              "streamFormat": "hls",
               "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-              "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-              "backupStreamFormat": "mp4"
+              "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+              "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+              "backupStreamFormat": "hls"
             },
             {
               "contentId": "episode_shadow_trax_s1e2_001",
@@ -63,12 +63,12 @@
               "description": "Follow-up episode.",
               "seasonNumber": 1,
               "episodeNumber": 2,
-              "streamFormat": "mp4",
+              "streamFormat": "hls",
               "hdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
               "sdPosterUrl": "pkg:/images/posters/shadow-trax-originals.png",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-              "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-              "backupStreamFormat": "mp4"
+              "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+              "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+              "backupStreamFormat": "hls"
             }
           ]
         }
@@ -81,36 +81,36 @@
       "mediaType": "shortFormVideo",
       "title": "Backyard Campout",
       "description": "A fun outdoor adventure for the whole family.",
-      "streamFormat": "mp4",
+      "streamFormat": "hls",
       "hdPosterUrl": "pkg:/images/posters/backyard-campout.png",
       "sdPosterUrl": "pkg:/images/posters/backyard-campout.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "backupStreamFormat": "mp4"
+      "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupStreamFormat": "hls"
     },
     {
       "contentId": "short_storytime_station_001",
       "mediaType": "shortFormVideo",
       "title": "Storytime Station",
       "description": "Gentle stories and creative play for younger viewers.",
-      "streamFormat": "mp4",
+      "streamFormat": "hls",
       "hdPosterUrl": "pkg:/images/posters/storytime-station.png",
       "sdPosterUrl": "pkg:/images/posters/storytime-station.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "backupStreamFormat": "mp4"
+      "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupStreamFormat": "hls"
     },
     {
       "contentId": "short_family_build_lab_001",
       "mediaType": "shortFormVideo",
       "title": "Family Build Lab",
       "description": "DIY-inspired segments to watch and try together.",
-      "streamFormat": "mp4",
+      "streamFormat": "hls",
       "hdPosterUrl": "pkg:/images/posters/family-build-lab.png",
       "sdPosterUrl": "pkg:/images/posters/family-build-lab.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "backupStreamFormat": "mp4"
+      "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupStreamFormat": "hls"
     }
   ],
   "tvSpecials": [
@@ -120,24 +120,24 @@
       "title": "Family Talent Stage",
       "description": "Music, dance, and creative spotlights from around the world.",
       "isPremium": true,
-      "streamFormat": "mp4",
+      "streamFormat": "hls",
       "hdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
       "sdPosterUrl": "pkg:/images/posters/family-talent-stage.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "backupStreamFormat": "mp4"
+      "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupStreamFormat": "hls"
     },
     {
       "contentId": "special_creative_kitchen_001",
       "mediaType": "tvSpecial",
       "title": "Creative Kitchen",
       "description": "Kid-friendly cooking fun and easy at-home recipes.",
-      "streamFormat": "mp4",
+      "streamFormat": "hls",
       "hdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
       "sdPosterUrl": "pkg:/images/posters/creative-kitchen.png",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "backupUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "backupStreamFormat": "mp4"
+      "url": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupUrl": "https://stream.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy.m3u8",
+      "backupStreamFormat": "hls"
     }
   ],
   "deepLinkSamples": [
